@@ -1,0 +1,12 @@
+ Nest and the Internet of Things (IoT)
+Nest and its parent company Google are at the forefront of the smart homes trend. Nest began as a smart thermostat that learned how users liked to keep their homes heated or cooled. While it was designed to be very simple to use, the machine learning technology embedded in the device makes this Internet of Things device one of the most well‐known success stories, and in some circles, the device leading the smart home transformation.
+
+Nest smart thermostats can be controlled by physically touching the device, or by using an app on the customer's personal smartphone. But over time, the device learns the preferences of its users and dynamically changes the temperature in the home, building a schedule based on the data collected from the user's behaviors. The schedule adapts as the user's preferences change and as the seasons change. It also knows when users are away from the home, using sensors and the location of the smartphone connected to the device. According to the Nest website, not only does the device keep customers comfortable in their homes, but the device pays for itself with its dynamic features, saving users an average of 10–12% on heating bills and 15% on cooling bills.
+
+But Google Home, the parent organization of Nest, has invested in smart home technologies that expand the capabilities into other devices. Nest offers smart thermostats, cameras, doorbells, alarm systems, locks, smoke detectors and CO alarms. All are controllable from a Google Home Hub or from a smartphone app. To take the smart home to the next level, Nest has built connections to smart appliances such as refrigerators, washing machines, sprinkler systems and ovens. The website clarifies their vision, “With Nest and Google Products, you'll always know what's happening at home. You'll have some help around the house. And you'll make sure everyone is safe and sound.”
+
+Questions
+
+Why would someone want a smart home? What are the advantages of having everything connected? What is an example of something in your home that you would not want to see become a smart device? Why?
+What devices would you want to connect using Internet of Things in your home or apartment? How would having these devices connected change the way you live?
+Smart devices collect a lot of data about the use of the device and the habits of the user. What concerns do you have knowing that smart home devices are listening and learning your habits?

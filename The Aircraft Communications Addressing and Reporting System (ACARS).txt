@@ -1,0 +1,14 @@
+The Aircraft Communications Addressing and Reporting System (ACARS)
+On June 22, 2015, LOT, the state‐owned Polish airline, had to ground at least 10 national and international flights because hackers breached the network at Warsaw's Chopin airport and intercepted the flight plans that pilots need before taking off. The grounding affected about 1,400 passengers and lasted over five hours before the problem was solved. A month earlier, United Airlines was reported to have experienced the same problem in the United States, and pilots reported bogus flight plans repeatedly popping up on the system.
+
+A consultant explained that the radio network that carried flight plans did not need authentication and was designed to trust the communications. A committee was then set up to develop a proposed standard for flight plan security.
+
+Fortunately, the flight plan did not control the plane, and a pilot had to accept and enter the plan. A strange result, such as heading to a distant city in the wrong direction, would not be entered or accepted. Even if the bogus plan were entered and accepted by the pilot, there was no danger of collision or crash because of the fraudulent plans.
+
+Any changes received to the plan while in flight had to be confirmed with air traffic controllers, who analyzed the new plan for safety. Alarms would also indicate a possible collision.
+
+Questions
+
+In your opinion, which of the two aircraft breaches is more dangerous: the breach described here or the breach created by the hacker (described earlier in the chapter) who took control of a plane's throttle briefly through the entertainment system and then tweeted about it? Why?
+What questions would you pose to the information security executive responsible for the flight plan system to ensure that this hack was no longer possible? What other plans would you put in place to build a defense in depth?
+If password control is used to solve the ACARS weakness, what might hackers do next? And given your answer, what might managers do to guard against that?

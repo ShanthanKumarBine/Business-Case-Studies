@@ -1,0 +1,21 @@
+Equifax's 2017 Data Breach
+The Equifax data breach was described briefly in this chapter. To recap, over 147 million sensitive records were accessed by an unauthorized party, revealing information that could facilitate identity theft. Equifax and the other two credit agencies responded by offering a paid service that each customer could use to “freeze” their credit reports and prevent loans from being taken out in their names until they unfreeze the account temporarily or permanently.
+
+There were serious repercussions within Equifax because of the breach. The CEO stepped down 3 weeks after the breach was revealed to the public. Another executive was charged with insider trading by selling millions of dollars' worth of shares of Equifax before the breach went public. A new security officer was hired and security practices were revamped. In response to the breach, Equifax planned on spending an additional $200 million for security and technology.
+
+The actual external repercussions to Equifax, however, could be considered minor. After a year, Equifax still had not paid any major fines or received other penalties from government regulators. Though its stock took an initial nosedive, it had since recovered and Equifax continued to receive large government contracts.
+
+The breach occurred due to Equifax's failure to update the three servers that customers used for disputing their claims. Ironically, the vulnerability was months old, and was known to Equifax, which failed to fix them. The hackers easily gained access to the servers by finding the login credentials thanks to the vulnerability. Using those credentials enabled them to access another 48 servers that contained the personal information that they stole. The hackers made over 9,000 queries to the system before they were detected because a network‐data inspection system was not kept current.
+
+The hackers accessed the Equifax servers over 76 days and stole data gradually in chunks before being detected. Once detected, they cut off access in one day. Equifax now has a system to manage vulnerability updates so this does not occur again.
+
+As the chapter stated, U.S. Congress reacted by drafting and passing a bill in 2018 that now requires providing customers with the ability to freeze their credit information at no cost.
+
+Questions
+
+As of this writing, there have been no fines levied against Equifax. Given that Equifax could legitimately claim that they are a victim here, does a fine appear to be warranted? Why or why not?
+What other laws do you believe should be passed? Would they have been helpful to prevent this breach?
+Given that over half of the adult U.S. population is vulnerable to identity theft from this breach alone, not to mention the other breaches described in Chapter 7, it is likely that your information makes you vulnerable to identity theft. If you live in the United States, what actions have you taken as a result of the breach?
+Please answer the same question about the usefulness of social security numbers. If they appear not to be useful any longer, what should the government do about this?
+What are the forces that would lead you to delay disclosing the breach to the public? Which of the issues are defensible? Which are not? Why?
+Does the poor public relations fallout from the breach likely endanger the long‐term success of Equifax? Why or why not?

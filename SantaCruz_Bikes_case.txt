@@ -1,0 +1,19 @@
+Case Study 5‐2 Santa Cruz Bicycles
+Bicycle enthusiasts not only love the ride their bikes provide but also are often willing to pay for newer technology, especially when it will increase their speed or comfort. Innovating new technologies for bikes is only half the battle for bike manufacturers. Designing the process to manufacture the bikes is often the more daunting challenge.
+
+Consider the case of Santa Cruz Bicycles. It digitally designs and builds mountain bikes and tests them under the most extreme conditions to bring the best possible product to its customers. A few years back, the company designed and patented the Virtual Pivot Point (VPP) suspension system, a means to absorb the shocks that mountain bikers encounter when on the rough terrain of the off‐road ride. One feature of the new design allowed the rear wheel to bounce 10 inches without hitting the frame or seat, providing shock absorption without feeling like the rider was sitting on a coiled spring.
+
+The first few prototypes did not work well; in one case, the VPP joint's upper link snapped after a quick jump. The experience was motivation for a complete overhaul of the design and engineering process to find a way to go from design to prototype faster. The 25‐person company adopted a similar system used by large, global manufacturers: product life cycle management (PLM) software.
+
+The research and development team had been using computer‐aided design (CAD) software, but it took seven months to develop a new design, and if the design failed, starting over would be the only solution. This design approach was a drain not only on the company's time but also on its finances. The design team found a PLM system that helped members analyze and model capabilities in a much more robust manner. The team used simulation capabilities to watch the impact of the new designs on rough mountain terrain. The software tracks all the variables the designers and engineers need so they can quickly and easily make adjustments to the design. The new system allows the team to run a simulation in a few minutes, representing a very large improvement over their previous design software, which took seven hours to run a simulation.
+
+The software was just one component of the new process design. The company also hired a new master frame builder to build and test prototypes in‐house and invested in a van‐size machine that can fabricate intricate parts for the prototypes, a process the company previously outsourced. The result was a significant decrease in its design‐to‐prototype process. What once averaged about 28 months from start of design to shipping of the new bike now takes 12 to 14 months.
+
+Santa Cruz has continued improving the technology of its bikes and it started offering a full range of high‐end bicycles for women through its sister brand, Juliana.
+
+Questions
+
+Would you consider this transformation to be incremental or radical? Why?
+What, in your opinion, was the key factor in Santa Cruz Bicycles' successful process redesign? Why was that factor the key?
+What outside factors had to come together for Santa Cruz Bicycles to be able to make the changes it did?
+Why is this story more about change management than software implementation?

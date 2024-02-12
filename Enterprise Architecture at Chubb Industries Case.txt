@@ -1,0 +1,23 @@
+Case Study 6‐1 Enterprise Architecture at Chubb Industries
+Enterprise architecture (EA) at Chubb was the framework the organization used to align IT and the business. EA provided a target architecture for business leaders and IT professionals to use to collaborate and to enable the company to adapt and prosper. “Our EA is the glue that brings Business and IT together,” claimed Chubb CIO, Jim Knight.
+
+Chubb Industries, which now operates in 54 countries and territories, is the largest publicly traded property and casualty insurance company in the world and the largest commercial insurer in the United States. Having been founded in North America in 1792, it may well be one of the oldest underwriting companies.
+
+CIO Knight had put in place a decentralized (federated) EA in place to support Chubb's seven lines of business (LOB). However, after six years he realized that tweaks to the decentralized EA were not able to deal with problems that surfaced over time. In particular, standards weren't being followed closely enough and the business units were focusing on their own unit's goals but suboptimizing on the organizational goals. The decentralized approach inhibited agility because it misaligned IT and the enterprise business strategy, created duplication, and impeded coordination across the LOBs. Knight decided to consolidate the LOB architects into a centralized enterprise IT organization with a broader scope.
+
+CIO Knight reorganized Chubb's IT group to have a Chief Architect/Architecture Practice Lead who reported to the Chief Development Officer who, in turn, reported to Knight himself. A Manager in charge of Development also reported to the Chief Development Officer. The Manager in charge of Infrastructure reported directly to Knight. The new IT organization was designed to deliver integrated solutions to the business.
+
+One of the first things Knight did was create a target architecture with four major components: Architecture Principles (i.e., general rules and guidelines including “Be business oriented with a business‐driven design,” “Promote consistent architecture,” etc.); Architecture Governance (i.e., practices to manage at the enterprise‐wide level including controls, compliance obligations, processes, etc.); Conceptual Reference Architectures (i.e., target architecture support domains including business, application, information and technical architectures, policy administration, advanced analytics, i.e., content management); and, Emerging Technology (processes to promote innovation and explore emerging technologies). The target architecture used 50 architecture compliance rules derived from the TOGAF framework.
+
+All new projects were issued a “building permit” by the Architecture Governance Board and were assigned one or more architects from the five EA domains (i.e., Business, Application, Information, Technical, and Security) to ensure that the target architecture was being adhered to. The architects submitted artifacts and design documents for review and formal approval. Any deviations from the architecture rules must be corrected or remediated. The architects worked closely with the project leader.
+
+It was believed by the IT executives that the new EA model delivered value to the business, helped determine the new technologies that offered the greatest potential benefits, and provided better access to IT intellectual capital. The LOBs get the resources that are most appropriate for meeting their needs. But it wasn't only the IT people who thought the EA added value. Dan Paccico, the Senior Vice President and Controller, said: “Chubb now has better long‐term and strategic planning reflecting an enterprise point of view.”
+
+Questions
+
+What are the key components of the architecture Chubb has created?
+Why was it important to standardize so much of the architecture?
+What are the advantages and disadvantages of a standard EA for Chubb?
+Describe how the new architecture supports the goals and strategy of Chubb.
+Compare and contrast the advantages and disadvantages of the centralized and decentralized EAs at Chubb.
+What is your vision of how the target architecture might work in the future? If you were advising Jim Knight, the CIO of Chubb, what challenges would you suggest his group prepare for?

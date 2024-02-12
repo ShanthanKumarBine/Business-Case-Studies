@@ -1,0 +1,18 @@
+Case Study 4‐2 Trash and Waste Pickup Services, Inc.
+Martin Andersen is responsible for 143 of Trash and Waste Pickup Services, Inc.'s (TWPS's) garbage trucks. TWPS is a commercial and household trash hauler. When a caller recently complained to Andersen that a brown and green Trash and Waste Pickup Services truck was speeding down Farm Route 2244, Andersen turned to the company's information system. He learned that the driver of a company front‐loader had been on that very road at 7:22 A.M., doing 51 miles per hour (mph) in a 35 mph zone. The driver of that truck was in trouble!
+
+The TWPS information system uses a global positioning system (GPS) not only to smooth its operations but also to keep closer track of its employees, who may not always be doing what they are supposed to be doing during work hours. Andersen pointed out: “If you're not out there babysitting them, you don't know how long it takes to do the route. The guy could be driving around the world; he could be at his girlfriend's house.”
+
+Before TWPS installed the GPS, the drivers of his 37 front‐loaders clocked in approximately 250 hours a week of overtime at one and a half times pay. Once TWPS started monitoring the time they spent in the yard before and after completing their routes and the time and location of stops that they made, the number of overtime hours plummeted to 70 per week. This translated to substantial savings for a company whose drivers earn about $20 an hour.
+
+TWPS also installed GPS receivers in salesmen's cars. Andersen was not surprised to learn that some of the company's salespeople frequented The Zone, a local bar, around 4 P.M. when they were supposed to be calling on customers. Andersen decided to set digital boundaries around the bar.
+
+Understandably, the drivers and salespeople aren't entirely happy with the new GPS‐based system. Ron Simon, a TWPS driver, admits: “It's kind of like Big Brother is watching a little bit. But it's where we're heading in this society…. I get testy in the deli when I'm waiting in line for coffee, because it's like, hey, they're (managers) watching. I've got to go.”
+
+Andersen counters that employers have a right to know what their employees are up to: “If you come to work here, and I pay you and you're driving one of my vehicles, I should have the right to know what you're doing.”
+
+Discussion Questions
+
+What are the positive and negative aspects of Andersen's use of the GPS‐based system to monitor his drivers and salespeople?
+What advice do you have for Andersen about the use of the system for supervising, evaluating, and compensating his drivers and salespeople?
+As more and more companies turn to IS to help them monitor their employees, what do you anticipate the impact will be on employee privacy? Can anything be done to ensure employee privacy?
